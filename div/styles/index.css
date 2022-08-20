@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.first{
+    height: 100%;
+    width: 100%;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second{
+    height: 70%;
+    width: 70%;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third{
+    height: 70%;
+    width: 70%;
+    background: blue;
+}
